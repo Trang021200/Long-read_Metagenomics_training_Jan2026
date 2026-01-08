@@ -3,5 +3,5 @@ This repository is dedicated for the **Long-read metagenomics analysis for human
 
 Since this is a private workshop, the reads will only be accessible once they are submitted to public archive. If you did not attend the workshop and wish to follow the steps, any human gut microbiome metagenomes from public archive should work. 
 
-Please visit this repository's wiki (still under development) for workshop's schedule, OS/hardware and software requirements, and detailed analysis steps. 
+Please visit this [repository's wiki](https://github.com/Trang021200/Long-read_Metagenomics_training_Jan2026/wiki) (still under development) for workshop's schedule, OS/hardware and software requirements, and detailed analysis steps. 
 
